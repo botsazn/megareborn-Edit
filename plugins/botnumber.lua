@@ -19,5 +19,3 @@ patterns ={
 },
 run = run
 }
---End By @Tele_Sudo & @To0fan
---channel @LuaError
