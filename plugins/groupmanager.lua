@@ -3322,7 +3322,7 @@ text = [[
 —----------------
 ⚠️شما میتوانید از ! و # و / در اول دستور ها استفاده کنید
 ⚠️هرگونه سوال و انتقاد یا پیشنهادخود را میتوانید در گروه پشتیبانی مطرح کنید
-@telereborn]]
+]]
 end
 return text
 end
@@ -3494,4 +3494,4 @@ patterns ={
 run=run,
 pre_process = pre_process
 }
---end groupmanager.lua #beyond team#
+
