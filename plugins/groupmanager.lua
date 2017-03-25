@@ -3060,7 +3060,7 @@ end
 if matches[1] == "help" and is_mod(msg) then
 if not lang then
 text = [[
-*Beyond Bot Commands:*
+*Bot Commands:*
 *!setowner* `[username|id|reply]` 
 _Set Group Owner(Multi Owner)_
 *!remowner* `[username|id|reply]` 
@@ -3166,7 +3166,7 @@ text = [[
 تنظیمات لیست موت
 /mutelist
 —----------------
-دستورات ربات ریبورن :
+دستورات ربات :
 
 !setowner [username|id|reply] 
 انتخاب مالک گروه(قابل انتخاب چند مالک)
